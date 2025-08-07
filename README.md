@@ -13,7 +13,11 @@ Atmospheric conditions like haze, fog, or smoke degrade the quality of images by
 - **Image Processing Enhancements**: The pipeline incorporates pre-processing and post-processing steps like median filtering, atmospheric light estimation, CLAHE, and sharpening to refine the final output.
 
 ---
+## Output
+![Dehazed Output](image1.png)
 
+
+---
 ## 📁 File Descriptions
 
 - `Untitled1 (1).ipynb`: Jupyter Notebook with the complete training pipeline, including data loading, pre-processing, U-Net training, and evaluation.
