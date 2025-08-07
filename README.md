@@ -15,7 +15,7 @@ Atmospheric conditions like haze, fog, or smoke degrade the quality of images by
 ---
 ## 🌬️Output
 ![Dehazed Output](image1.png)
-
+Refer to Reports last pages/Untitled2 for more Outputs
 
 ---
 ## 📁 File Descriptions
