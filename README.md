@@ -19,7 +19,7 @@ Atmospheric conditions like haze, fog, or smoke degrade the quality of images by
 - `Untitled1 (1).ipynb`: Jupyter Notebook with the complete training pipeline, including data loading, pre-processing, U-Net training, and evaluation.
 - `Untitled2.ipynb`: Inference notebook to test the pre-trained model on real-world hazy images.
 - `unet_dehaze_2k (1).pth`: Trained PyTorch model file generated from the training notebook.
-- `image1.png`: A sample hazy input image for testing.
+- `image1.png`: A sample hazy output image in testing.
 
 ---
 
