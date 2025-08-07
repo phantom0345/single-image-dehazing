@@ -4,20 +4,6 @@ This project implements a robust method for single image dehazing by combining t
 
 ---
 
-## 📜 Table of Contents
-- [Project Overview](#project-overview)
-- [File Descriptions](#file-descriptions)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-  - [1. Pre-processing](#1-pre-processing)
-  - [2. U-Net Model Training](#2-u-net-model-training)
-  - [3. Restoration & Post-processing](#3-restoration--post-processing)
-- [Results](#results)
-- [Hardware & Software Requirements](#hardware--software-requirements)
-- [How to Run](#how-to-run)
-- [Contributor](#contributor)
-
----
 
 ## 🎯 Project Overview
 
