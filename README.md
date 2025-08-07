@@ -13,7 +13,7 @@ Atmospheric conditions like haze, fog, or smoke degrade the quality of images by
 - **Image Processing Enhancements**: The pipeline incorporates pre-processing and post-processing steps like median filtering, atmospheric light estimation, CLAHE, and sharpening to refine the final output.
 
 ---
-## Output
+## 🌬️Output
 ![Dehazed Output](image1.png)
 
 
